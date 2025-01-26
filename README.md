@@ -47,7 +47,7 @@ In the past, I was
 
 
 <details>
-<summary>📧 Other ways to Get in Touch.</summary>
+<summary>📧 Other Ways to Get in Touch.</summary>
 <br> 
 
 Please feel free to contact me.
