@@ -18,7 +18,7 @@ I’m Samantha and I'm a software engineer based in the Bay Area. I recently gra
 
 I am open to any opportunities starting in mid-September or later related to Software Engineering, Data Science, and Machine Learning. Please reach out to me through one of the methods below. I look forward to hearing from you!
 
-<p align="left">
+<p align="center">
 <a href="mailto:samanthalhuang@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/samanthalhuang/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -99,6 +99,6 @@ Please feel free to contact me.
 </p>
 
 
-<tr>
+<tr align = "center">
   <td><img src="https://streak-stats.demolab.com?user=samanthalhuang&ring=DD6304&theme=jolly" width="420"/> </td>
 </tr>
